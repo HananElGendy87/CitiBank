@@ -1,4 +1,4 @@
-package com.library.utility;
+package com.CitiBankUI.utility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

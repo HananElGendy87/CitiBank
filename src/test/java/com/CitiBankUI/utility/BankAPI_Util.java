@@ -1,4 +1,4 @@
-package com.library.utility;
+package com.CitiBankUI.utility;
 
 import com.github.javafaker.Faker;
 import io.restassured.http.ContentType;
@@ -8,7 +8,7 @@ import java.util.Map;
 
 import static io.restassured.RestAssured.given;
 
-public class LibraryAPI_Util {
+public class BankAPI_Util {
 
 
     /**

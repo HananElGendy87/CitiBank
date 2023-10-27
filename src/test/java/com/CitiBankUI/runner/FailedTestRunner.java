@@ -1,4 +1,4 @@
-package com.library.runner;
+package com.CitiBankUI.runner;
 
 
 import io.cucumber.junit.Cucumber;
@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "@target/rerun.txt",
-        glue = "com/library/steps"
+        glue = "com/CitiBankUI/steps"
 
 )
 public class FailedTestRunner {
